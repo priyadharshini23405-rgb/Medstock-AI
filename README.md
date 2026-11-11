@@ -1,6 +1,6 @@
-# MedStock AI — DATA THIRAN Prototype
+# MedStock AI
 
-A Streamlit working prototype for **DT-HLT-04: Identifying Patterns in Medicine Demand**.
+A Streamlit working prototype 
 
 ## Features
 - Overview dashboard with inventory KPIs and stock-status charts
@@ -45,7 +45,7 @@ All initial values are **illustrative demo data**, generated inside the app. Thi
 
 7. Streamlit will show a local URL, usually `http://localhost:8501`. Open it in your browser.
 
-## Suggested hackathon demo flow
+## Suggested demo flow
 1. Start on Overview Dashboard.
 2. Show Critical/Low stock indicators.
 3. Open Medicine Inventory and search for a medicine.
